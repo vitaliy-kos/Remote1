@@ -13,3 +13,7 @@ git remote add <repo_name> <repo_url>
 ```
 git pull
 ```
+Отправить изменения локального репозитория в удаленный:
+```
+git push
+```
